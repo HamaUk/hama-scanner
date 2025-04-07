@@ -1,0 +1,4 @@
+echo "MIT License
+Copyright (c) $(date +%Y) hamakoye99
+
+Permission is hereby granted..." > LICENSE
