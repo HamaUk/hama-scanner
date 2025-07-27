@@ -26,7 +26,7 @@ Advanced multi-threaded web vulnerability scanner for penetration testers and se
 
 ## 🚀 Installation
 
-```bash
-git clone https://github.com/yourusername/web-vuln-scanner.git
-cd web-vuln-scanner
-pip install -r requirements.txt
+pip install requests beautifulsoup4 colorama fake_useragent tldextract
+
+
+python3 scanner.py
